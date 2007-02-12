@@ -4,7 +4,7 @@
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_DataSource_MDB2
 Summary:	%{_pearname} - DataSource driver using PEAR::MDB2 and an SQL query
-Summary(pl):	%{_pearname} - sterownik DataSource do PEAR::MDB2 i kwerend SQL
+Summary(pl.UTF-8):   %{_pearname} - sterownik DataSource do PEAR::MDB2 i kwerend SQL
 Name:		php-pear-%{_pearname}
 Version:	0.1.3
 Release:	1
@@ -28,7 +28,7 @@ and an SQL query.
 
 In PEAR status of this package is: %{_status}.
 
-%description -l pl
+%description -l pl.UTF-8
 Ten pakiet dostarcza sterownik do PEAR::MDB2 i kwerend SQL dla
 Structures_DataGrid.
 
