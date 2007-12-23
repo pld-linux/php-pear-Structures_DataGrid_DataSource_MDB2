@@ -6,12 +6,12 @@
 Summary:	%{_pearname} - DataSource driver using PEAR::MDB2 and an SQL query
 Summary(pl.UTF-8):	%{_pearname} - sterownik DataSource do PEAR::MDB2 i kwerend SQL
 Name:		php-pear-%{_pearname}
-Version:	0.1.10
+Version:	0.1.11
 Release:	1
 License:	PHP License
 Group:		Development/Languages/PHP
 Source0:	http://pear.php.net/get/%{_pearname}-%{version}.tgz
-# Source0-md5:	424ef3c278ea8e1aca6291340261ba5a
+# Source0-md5:	a3cf3471cc5c04d81eaadbeb214a2bc1
 URL:		http://pear.php.net/package/Structures_DataGrid_DataSource_MDB2/
 BuildRequires:	php-pear-PEAR
 BuildRequires:	rpm-php-pearprov >= 4.4.2-11
