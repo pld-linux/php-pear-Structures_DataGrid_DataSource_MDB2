@@ -1,4 +1,3 @@
-%include	/usr/lib/rpm/macros.php
 %define		_status		beta
 %define		_pearname	Structures_DataGrid_DataSource_MDB2
 Summary:	%{_pearname} - DataSource driver using PEAR::MDB2 and an SQL query
